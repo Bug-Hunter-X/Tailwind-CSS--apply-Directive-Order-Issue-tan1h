@@ -1,0 +1,1 @@
+This error occurs when using Tailwind CSS with a framework like Next.js or Nuxt.js, and it often involves the `@apply` directive.  The problem stems from the way Tailwind processes directives and the order in which CSS classes are applied. Sometimes, the order in which `@apply` directives are processed leads to unexpected styles or overrides.
